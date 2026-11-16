@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:top_food/burger.dart';
+import 'package:top_food/chat.dart';
 import 'package:top_food/counter.dart';
 import 'package:top_food/img.dart';
 
@@ -20,7 +21,7 @@ class MyApp extends StatelessWidget {
       // home: SimpleWidgets(),
       // home: Img(),
      // home: Burger(),
-     home: Counter(),
+     home: Chat(),
     );
   }
 }
